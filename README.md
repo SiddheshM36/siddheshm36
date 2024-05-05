@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Java**
+- ☑️ It's all about time ⌚
 
 - 📫 How to reach me **412sid1999@gmail.com**
 
