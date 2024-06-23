@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Software Engineer at Tata Consultancy Services(TCS)**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops and React-Native**
 
 - ☑️ It's all about time ⌚
 
