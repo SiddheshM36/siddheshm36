@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Application Developer-Cloud Fullstack at IBM 👁️🐝Ⓜ️**
 
-- 🌱 I’m currently learning **Devops and React-Native**
+- 🌱 I’m currently learning **Devops and DSA**
 
 - ☑️ It's all about time ⌚
 
